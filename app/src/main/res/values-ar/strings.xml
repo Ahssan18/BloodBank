@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Ommi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Verse_Quran">قَالَ اللهُ تَعَالَى: {وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعاً}     \n سورة المائدة: الآية 32</string>
+    <string name="review">It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="enter_phone_number">أدخل رقم الهاتف</string>
+    <string name="send_code">أرسل الرمز</string>
+    <string name="phone_number_verification">التحقق من رقم الهاتف</string>
+    <string name="verify">تحقق</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="enter_your_name">أدخل أسمك</string>
+    <string name="enter_your_age">أدخل تاريخ الميلاد</string>
+    <string name="entre_your_location">أدخل موقعك</string>
+    <string name="admin_notification">إعلام المسؤول</string>
+    <string name="are_you_donnar">هل انت دونار</string>
+    <string name="next">التالى</string>
+    <string name="are_you_available">هل انت متاح</string>
+    <string name="manual">يدوي</string>
+    <string name="auto">  تلقائي</string>
+    <string name="tap_here_to_select_address">انقر هنا لتحديد العنوان</string>
+    <string name="use_current_location">استخدام الموقع الحالي</string>
+    <string name="search">بحث</string>
+    <string name="blood_request">طلب الدم</string>
+    <string name="enter_your_address">أدخل عنوانك</string>
+    <string name="enter_you_messege_here">أدخل رسالتك هنا ...</string>
+    <string name="submit">إرسال</string>
+    <string name="enter_your_email">أدخل بريدك الإلكتروني</string>
+    <string name="enter_your_msg_here">أدخل رسالتك هنا ...</string>
+    <string name="send">إرسال</string>
+    <string name="about_product">عن المنتج</string>
+    <string name="chk_avail_messege">تحتاج إلى إلغاء تحديد خانة الاختيار الخاصة بنقل الدم والتبرع بالدم!</string>
+    <string name="delete_account_popup">هل أنت متأكد أنك تريد حذف الحساب؟</string>
+    <string name="yes">نعم</string>
+
+    <string name="text_about_us">عزيزي المستخدم \n
+تطبيق
+         \u0020<b>أمي</b>\u0020
+
+        ليس للربح ، ويوفر خدمة عامة ودعم للمراكز الطبية. نحن نتفهم ونحترم
+ أن خصوصيتك مهمة بالنسبة لك، لذا يبدأ تعهدنا بقيم الخصوصية الأربعة
+ وهي الإحترام، الثقة، منع الضرر وا الإلتزام.
+</string>
+    <string name="delete_account">حذف التطبيق</string>
+
+    <string name="rate_us">التقييم</string>
+    <string name="later">في وقت لاحق</string>
+    <string name="cancel">إلغاء</string>
+    <string name="setting">الإعدادات</string>
+    <string name="my_profile">ملفي</string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="about_us">من نحن</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="notification">تنبيه</string>
+    <string name="pray_my_mother">يا إخوتي ادعوا لوالدتي مودرس مختارية بالرحمه والمغفره وأن يجعل قبرها \n روضة من رياض الجنة. لا اصعب من فراق الام…أوصيكم ديرو فيها \n الخير
+ قدّ ما تقدرو فذاك باب سد في وجهي للأبد
+</string>
+    <string name="concerned_about_privacy_we_are_too"><b>هل أنت قلق بشأن الخصوصية؟ نحن أيضا</b>
+ \n
+
+عند استخدام خدماتنا، فإنك تأتمننا على معلوماتك. نحن ندرك أن هذه مسؤولية كبيرة
+ونعمل بجدية لحماية معلوماتك ونمنحك التحكم فيها. على الرغم من وجود العديد من
+التطبيقات ومواقع الويب التي تجمع معلومات وإحصاءات أخرى حول مستخدميها،
+إلا أننا لا نجمع أي معلومات شخصية عنك عند زيارة هذا التطبيق.
+.
+</string>
+    <string name="pra_3"><b>ماذا يحدث إذا تغير بيان الخصوصية؟</b></string>
+    <string name="pra_4">
+تم تحديث سياسة الخصوصية ("السياسة") هذه آخرمرة في 26 يوليو 2020. يجوز لنا تحديث هذا البيان في المستقبل. وإذا اعتقدنا أن هناك أي تغييرات جوهرية، فسوف نخبرك عن طريق اتخاذ واحد أو أكثر من الإجراءات التالية: إرسال رسالة إليك بشأن التغييرات و/أو وضع إشعار بذلك على الموقع الإلكتروني و/أو نشر بيان مُحدث على الموقع الإلكتروني. وسوف نضع ملاحظة في أعلى هذا البيان عند
+تحديثه مؤخرًا. إننا نشجعك على معاودة التحقق من وقت لآخرلمراجعة هذا البيان
+بشكل دوري للحصول على أحدث المعلومات حول ممارسات الخصوصية لدينا.
+ </string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="about1">هذه المنصة مخصصة لذكرى المحبة أمي <b>مودرس مختارية:</b> اللتي
+ستبقى ابتسامتها وعيونها حاضرةً في قلبي وذهني إلى الأبد. مهما غابت
+سأبقى أفتخر أنّها كانت لدي أُم في غاية الحنان لم تكن أماً فقط، بل كانت
+هي نبع الحياة، وهي الشمس التي لطالما أنارت طريقي رغم طوله. يا
+أُمي بقدر ما أنا جزء منك، انت جزء مني. أخذتِ يا أُمي برحيلكِ جزءاً
+
+
+من قلبي وقطعة من روحي، ولازال موتكِ يا أُمي خلفي يلاحقني.
+
+    </string>
+    <string name="aboutpara2">فليرحمك الله يا <b>أُمي</b> ويجعل قبرك روضه من رياض الجنه ويسكنك فسيح جناته، وليجزيك الله بالخير عن
+كل عمل خير، وعن كل كلمة طيبة تعاملت بها مع الناس أجمعين.
+    </string>
+    <string name="about_para3">المسؤول عن التطبيق: د. د.
+        <b>محمد رضا شلالي</b>
+        من الجزئر.\n
+
+
+
+
+
+        تطبيق
+         <b>أمي</b>
+        هو
+        جوّال يمنح تدابير سريعة وواسعة النطاق لإنقاذ أكبر عدد ممكن من الأرواح في
+أقصروقت ممكن. الفكرة الأساسية وراء هذه المبادرة هي جعل عملية التبرع أسرع وأكثر راحة من.خلال تسهيل الاتصال بين المتبرعين بالدم والمتلقيين له.
+</string>
+    <string name="select_blood_group">حدد فصيلة الدم</string>
+    <string name="i_agree_with_ommi_privacy_policy">أوافق على</string>
+    <string name="ommi_privacy_policy"><u>سياسة الخصوصية</u></string>
+    <string name="if_you_do_not_receive_a_message_with_an_activation_code_please_restart_your_phone">إذا لم تحصل على رسالة  تحتوي على رمز التفعيل، يرجى إعادة تشغيل هاتفك
+</string>
+
+    <string name="title_donnar">المتبرعين</string>
+    <string name="app_name_">المتبرعين</string>
+    <string name="title_request">استغاثات</string>
+    <string name="title_chats">الرسائل </string>
+    <string name="title_services">الخدمات</string>
+    <string name="for_a_better_experience_please_select_your_language">للحصول على تجربة أفضل ، يرجى تحديد لغتك</string>
+    <string name="title_heroes">الأبطال</string>
+    <string name="rate_app_togetreward">قيم تطبيقنا لتحصل على 50 نقطة</string>
+    <string name="text_update">تحديث</string>
+    <string name="rate_him_now">قيمه الآن</string>
+    <string name="write_your_comment_here">أكتب تعليقك هنا...</string>
+    <string name="people_reviews">مراجعات الناس</string>
+    <string name="no_matches_found">لم يتم العثور على تطابق!</string>
+    <string name="search_here">ابحث هنا...</string>
+    <string name="available">متاح</string>
+    <string name="not_available">غير متاح</string>
+    <string name="add_services">أضف خدمات</string>
+    <string name="select_service">حدد الخدمة</string>
+    <string name="total">المجموع</string>
+    <string name="type_a_message">اكتب رسالة</string>
+    <string name="Statement_plasma">في الأسابيع الثمانية الماضية، هل تبرعت بالدم، الصفائح الدموية أو البلازما؟</string>
+    <string name="Statement_BloodTranfusion">خلال الاثني عشر شهرًا الماضية، هل أجريت عملية نقل دم؟</string>
+    <string name="lookingFor"> \u0020 يبحث عن \u0020 </string>
+    <string name="Blood_in">  \u0020   الدم في  \u0020  </string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="january">يناير</string>
+    <string name="feb">فبراير </string>
+    <string name="march">مارس </string>
+    <string name="april">أبريل  </string>
+    <string name="may">مايو </string>
+    <string name="june">يونيو </string>
+    <string name="jully">يوليو </string>
+    <string name="august">أغسطس  </string>
+    <string name="september">سبتمبر</string>
+    <string name="october">أكتوبر</string>
+    <string name="november">نوفمبر</string>
+    <string name="december">ديسمبر</string>
+    <string name="now">الآن</string>
+    <string name="previous">الأسبوع الماضي</string>
+    <string name="previous_weak">هذا الشهر</string>
+    <string name="ommi">المتبرعين</string>
+    <string name="public_messages">رسائل عامه</string>
+    <string name="write_your_post_here">اكتب مشاركتك هنا ...</string>
+    <string name="personel_chat">الدردشة الشخصية</string>
+    <string name="no_data_found">لاتوجد بيانات!</string>
+    <string name="urgent_posts">طلب الدم</string>
+    <string name="blood_requests">طلب الدم</string>
+
+
+</resources>

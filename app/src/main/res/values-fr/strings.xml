@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Ommi</string>
+    <string name="app_name_">Donneurs</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Verse_Quran">Allah a dit «Et quiconque sauve une vie humaine, c’est comme s’il a sauvé l’humanité tout entière ». Coran v 32 s 5</string>
+    <string name="review">It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="enter_phone_number">Entrez le numéro de téléphone</string>
+    <string name="send_code">Envoyer le code</string>
+    <string name="delete_account_popup">Voulez-vous vraiment supprimer le compte?</string>
+    <string name="phone_number_verification">Vérification du numéro de téléphone</string>
+    <string name="verify">Vérifier</string>
+    <string name="chk_avail_messege">Vous devez décocher la case transfusion sanguine et don de sang!</string>
+    <string name="profile">Profil</string>
+    <string name="delete_account">Supprimer l\'utilisateur</string>
+    <string name="yes">Oui</string>
+    <string name="for_a_better_experience_please_select_your_language">Pour une meilleure expérience, veuillez sélectionner votre langue</string>
+
+    <string name="ommi_privacy_policy"><u>la politique de confidentialité</u></string>
+    <string name="i_agree_with_ommi_privacy_policy">J\'accepte</string>
+    <string name="enter_your_name">Entrez votre nom</string>
+    <string name="enter_your_age">entrer date de naissance</string>
+    <string name="entre_your_location">Entrez votre emplacement</string>
+    <string name="are_you_donnar">Êtes-vous donnar</string>
+    <string name="next">Prochain</string>
+    <string name="are_you_available">Êtes vous disponible</string>
+    <string name="manual">Manuelle</string>
+    <string name="auto">Auto</string>
+    <string name="if_you_do_not_receive_a_message_with_an_activation_code_please_restart_your_phone">Si vous ne recevez pas de message avec un code d\'activation, veuillez redémarrer votre téléphone</string>
+
+    <string name="tap_here_to_select_address">Appuyez ici pour sélectionner l\'adresse</string>
+    <string name="use_current_location">utiliser l\'emplacement actuel</string>
+    <string name="search">Rechercher</string>
+    <string name="blood_request">Demande De Sang</string>
+    <string name="enter_your_address">Entrez votre adresse</string>
+    <string name="enter_you_messege_here">Entrez votre message ici ...</string>
+    <string name="submit">Soumettre</string>
+    <string name="enter_your_email">Entrer votre Email</string>
+    <string name="enter_your_msg_here">Entrez votre msg ici ...</string>
+    <string name="send">Envoyer</string>
+    <string name="about_product">À propos du produit</string>
+    <string name="text_about_us">Ommi est un application à but non lucratif dédié aux services sociaux d\'intérêt général et un support aux centres médicaux. L\'application s\'engage à préserver la confidentialité, l\'exactitude et la sécurité de vos renseignements personnels dans la mesure du possible, sous réserve des dispositions de la loi d\'état.
+</string>
+    <string name="rate_us">Évaluez nous</string>
+    <string name="later">Plus tard</string>
+    <string name="cancel">Annuler</string>
+    <string name="setting">Réglages</string>
+    <string name="my_profile">Mon profil</string>
+    <string name="contact_us">Nous contacter</string>
+    <string name="about_us">À propos de nous</string>
+    <string name="share_app">Partager l\'application</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="notification">Notification</string>
+    <string name="pray_my_mother">Soyez béni mes frères et sœurs, priez pour ma mère décédée Mouderas  Mouktaria, qu\'Allah lui accorde sa miséricorde, qu\'Il fasse de sa tombe un jardin parmi les jardins du paradis.</string>
+    <string name="concerned_about_privacy_we_are_too"><b>Votre confidentialité est notre préoccupation principale.</b>
+</string>
+    <string name="pra_3">Bien qu\'il existe de nombreuses applications et sites Web qui collectent des informations sur leurs utilisateurs, nous ne collectons aucune information personnelle vous concernant lorsque vous visitez cette application.
+</string>
+    <string name="pra_4"><b>Que se passe-t-il si la déclaration de confidentialité change?</b>
+\nCette déclaration de confidentialité a été révisée et modifiée pour la dernière fois le 26/06/2020. Il peut nous arriver de modifier, de temps à autre, la présente politique de confidentialité sur l’application mobile. Si nous effectuons des changements, nous vous en aviserons en modifiant la date de mise à jour dans la partie supérieure de la politique et, dans certains cas, il se peut que nous vous fournissions un avis supplémentaire (comme l’affichage d’un énoncé sur notre page d’accueil ou l’envoi d’un avis). Nous vous incitons à examiner la politique de confidentialité sur l’application mobile chaque fois que vous accédez à l\'application et chaque fois que vous interagissez  avec nous pour demeurer au fait de nos pratiques relativement aux renseignements et aux façons de protéger votre confidentialité.
+</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="about1">Cette plateforme est dédiée à la mémoire de ma mère
+défunte <b>Mouderas Mouktaria</b>  à qui je dois la réussite,
+pour l\'éducation qu\'elle m\'a prodigué; avec tous les
+moyens et au prix de toutes les sacrifices qu\'elle a
+consentis à mon égard, pour le sens du devoir qu\'elle
+m\'a enseigné depuis mon enfance.</string>
+    <string name="aboutpara2">Administrateur:<b> Dr-Dr. rer. nat. Mohammed-Reda Chellali</b> Scientifique Algerien.Ommi
+est une application mobile qui permet de sauver autant de vies que possible sans
+perdre de temps. L\'idée de base de cette initiative est de rendre le processus de don
+plus rapide et plus pratique en facilitant le contact avec les donneurs et les receveurs de
+sang.</string>
+    <string name="about_para3"> </string>
+    <string name="select_blood_group">Sélectionnez le groupe sanguin</string>
+    <string name="search_here">Rechercher ici ...</string>
+    <string name="available">Disponible</string>
+    <string name="not_available">Indisponible</string>
+    <string name="add_services">Ajouter des services</string>
+    <string name="select_service">Sélectionnez un service</string>
+    <string name="total">totale</string>
+
+    <string name="title_donnar">Donneurs</string>
+    <string name="title_request">Urgences</string>
+    <string name="title_chats">Messages</string>
+    <string name="title_services">Services</string>
+    <string name="title_heroes">Héros</string>
+    <string name="rate_app_togetreward">Évaluez notre application pour obtenir 50 points</string>
+    <string name="text_update">Mise à jour</string>
+    <string name="rate_him_now">Évaluez-le maintenant</string>
+    <string name="write_your_comment_here">écrivez votre commentaire ici ...</string>
+    <string name="people_reviews">Avis de personnes</string>
+    <string name="no_matches_found">Aucun résultat!</string>
+    <string name="type_a_message">Tapez un message</string>
+    <string name="Statement_plasma">Au cours des 8 dernières semaines, avez-vous donné du sang, du plasma, ou des plaquettes?</string>
+    <string name="Statement_BloodTranfusion">Au cours des 12 derniers mois, avez-vous subi une transfusion sanguine?</string>
+    <string name="lookingFor">\u0020  cherche \u0020 </string>
+    <string name="Blood_in">\u0020   sang à  \u0020 </string>
+    <string name="male">mâle</string>
+    <string name="female">femelle</string>
+    <string name="january">Janvier</string>
+    <string name="feb">Février</string>
+    <string name="march">Mars</string>
+    <string name="april">Avril </string>
+    <string name="may">Mai</string>
+    <string name="june">Juin</string>
+    <string name="jully">Juillet</string>
+    <string name="august">Août</string>
+    <string name="september">Septembre</string>
+    <string name="october">Octobre</string>
+    <string name="november">Novembre</string>
+    <string name="december">Décembre</string>
+    <string name="now">Maintenant</string>
+    <string name="previous">La semaine dernière</string>
+    <string name="previous_weak">Ce mois-ci</string>
+    <string name="ommi">Ommi</string>
+    <string name="public_messages">Messages Public</string>
+    <string name="write_your_post_here">Écrivez votre message ici ...</string>
+    <string name="personel_chat">Chat personnel</string>
+    <string name="no_data_found">Aucune donnée disponible!</string>
+    <string name="urgent_posts">Demande De Sang</string>
+    <string name="blood_requests">Demande De Sang</string>
+    <string name="admin_notification">Notification de l\'administrateur</string>
+
+</resources>

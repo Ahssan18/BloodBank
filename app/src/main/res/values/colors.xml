@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a62c2a</color>
+    <color name="colorPrimaryDark">#a62c2a</color>
+    <color name="colorAccent">#a62c2a</color>
+    <color name="colorRed">#a62c2a</color>
+    <color name="colorRed_view">#46A62C2A</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="background_color">#F0F0F0</color>
+    <color name="colorView">#6CBCB5B5</color>
+    <color name="textColor">#8C8686</color>
+    <color name="colorBlack">#050000</color>
+    <color name="colorPurpule">#9C27B0</color>
+    <color name="colorRewardIcons">#5C5353</color>
+</resources>

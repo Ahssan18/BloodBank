@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Ommi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--AIzaSyBgO-b9bYQqPEYFYwf976X7-5wQKyUdQh4-->
+    <string name="google_maps_key">AIzaSyC9vZoR6K5vQzaVrC_Rokkfo1s_m11npNA</string>
+    <string name="Verse_Quran">Allah tells: {If anyone saved a life it would be as if he saved the life of the whole humanity}  Quran 5:32</string>
+    <string name="review">It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="send_code">Send Code</string>
+    <string name="phone_number_verification">Phone number Verification</string>
+    <string name="verify">Verify</string>
+    <string name="profile">Profile</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_age">Enter date of birth</string>
+    <string name="entre_your_location">Entre your location</string>
+    <string name="are_you_donnar">Are you donnar</string>
+    <string name="are_you_available">Are you Available</string>
+    <string name="manual">Manual</string>
+    <string name="auto">Auto</string>
+    <string name="tap_here_to_select_address">Tap here to select address</string>
+    <string name="use_current_location">use current location</string>
+    <string name="search">Search</string>
+    <string name="blood_request">Blood Request</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="enter_you_messege_here">Enter your message here...</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_msg_here">Enter your msg here...</string>
+    <string name="send">Send</string>
+    <string name="about_product">About Product</string>
+    <string name="text_about_us">The <b>Ommi</b> application is not for profit, and it provides a primary public service and support for medical centers. The application is committed to protecting the privacy and accuracy of confidential information to the extent possible, subject to provisions of state and federal law.</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="later">Later</string>
+    <string name="cancel">Cancel</string>
+    <string name="setting">Settings</string>
+    <string name="my_profile">My Profile</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="about_us">About Us</string>
+    <string name="share_app">Share App</string>
+    <string name="logout">Logout</string>
+    <string name="notification">Notification</string>
+    <string name="pray_my_mother">My brothers and sisters pray to my mother Mouderas Mouktaria, \n for mercy and forgiveness, and may Allah make her  grave  a \n garden from amongst the gardens of paradise.</string>
+    <string name="concerned_about_privacy_we_are_too">\n<b>Concerned about privacy? We are too.</b></string>
+    <string name="pra_3">Although there are many applications and websites that collect information and other statistics about their users, we DO NOT collect any personal information about you when you visit this application.
+\n\n<b>What happens if the privacy statement changes?</b></string>
+    <string name="pra_4">This Privacy Statement was last revised on 26/06/2020. We may change this Privacy Statement at any time and for any reason. We encourage you to review this Privacy Statement each time you visit the application.
+If we decide to make a significant change to our Privacy Statement, we will post a notice on the homepage of our application for a period of time after the change is made.
+</string>
+    <string name="privacy"><u>Privacy Policy</u></string>
+    <string name="about1">This platform is dedicated to the loving memory of my mother <b>Mouderas Mouktaria:</b> my guiding light, my shining star, forever. May Allah in his infinite mercy forgive her sins, and make her grave from among the gardens of Paradise, and make her children an unending source of reward for her.
+</string>
+    <string name="aboutpara2">Administrator: <b>Dr-Dr. rer. nat. Mohammed-Reda Chellali</b> Scientist from Algeria</string>
+    <string name="about_para3"><b>Ommi Blood Donor App </b>is mobile app puts the power to save as many lives as possible without losing any time. The basic idea behind this initiative is to make the donation process faster and more convenient by facilitating the contact with blood donors and recipients.</string>
+    <string name="select_blood_group">Select blood group</string>
+    <!--fragments title-->
+    <string name="title_donnar">Donors</string>
+    <string name="app_name_">Donors</string>
+    <string name="title_request">Emergencies</string>
+    <string name="title_chats">Chats</string>
+    <string name="title_services">Services</string>
+    <string name="title_heroes">Heroes</string>
+    <string name="rate_app_togetreward">Rate our app to get 50 points</string>
+    <string name="text_update">Update</string>
+    <string name="rate_him_now">Rate him now</string>
+    <string name="write_your_comment_here">write your comment here...</string>
+    <string name="people_reviews">People Reviews</string>
+    <string name="no_matches_found">No matches found!</string>
+    <string name="search_here">search here...</string>
+    <string name="available">Available</string>
+    <string name="not_available">Not Available</string>
+    <string name="add_services">Add Services</string>
+    <string name="select_service">Select a service</string>
+    <string name="total">Total</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="Statement_plasma">In the past 8 weeks have you donated blood , platelets , plasma?</string>
+    <string name="Statement_BloodTranfusion">In the past 12 months, have you had a blood transfusion?</string>
+    <string name="lookingFor">\u0020  is looking for \u0020 </string>
+    <string name="Blood_in">\u0020  blood in \u0020 </string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="january">Jan</string>
+    <string name="feb">Feb</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="jully">July</string>
+    <string name="august">Aug</string>
+    <string name="september">Sep</string>
+    <string name="october">Oct</string>
+    <string name="november">Nov</string>
+    <string name="december">Dec</string>
+    <string name="now">Now</string>
+    <string name="previous">Last week</string>
+    <string name="previous_weak">This month</string>
+    <string name="ommi">Ommi</string>
+    <string name="public_messages">Public Messages</string>
+    <string name="write_your_post_here">Write your post here...</string>
+    <string name="personel_chat">Personel Chat</string>
+    <string name="no_data_found">No data found!</string>
+    <string name="urgent_posts">Urgent Posts</string>
+    <string name="blood_requests">Blood requests</string>
+    <string name="serverkey" translatable="false">AAAAWLqdlzM:APA91bH_dPfbfsuuwgVyov9yvUMTHXWxge9dfb6g4s88CyWMAUi2OmfnzCn14NzBtriRAFVUHds1Nu8GkrNjMpTLifEYkov7WZ-TRo7MoBaguOMUe5Twl6_agnWllsVjbGOsLwvUtbb_</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="i_agree_with_ommi_privacy_policy">I agree with Ommi </string>
+    <string name="ommi_privacy_policy"><u>Privacy Policy</u></string>
+    <string name="if_you_do_not_receive_a_message_with_an_activation_code_please_restart_your_phone">If you do not receive a message with an activation code, please restart your phone</string>
+    <string name="delete_account">Delete User</string>
+    <string name="chk_avail_messege">You need to uncheck blood transfusion and blood donate check box!</string>
+    <string name="delete_account_popup">Are you sure you want to delete account?</string>
+    <string name="yes">Yes</string>
+    <string name="for_a_better_experience_please_select_your_language">For a better experience, please select your language</string>
+    <string name="next">Next</string>
+    <string name="admin_notification">Admin Notification</string>
+
+
+</resources>

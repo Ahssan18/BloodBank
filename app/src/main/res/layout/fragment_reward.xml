@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragments.RewardFragment">
+
+        <LinearLayout
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_height="30dp"
+            android:layout_width="match_parent"
+            android:weightSum="3"
+            android:background="@drawable/bg_card_reward"
+            android:orientation="horizontal"
+            >
+            <LinearLayout
+                android:orientation="vertical"
+                android:id="@+id/linearYear"
+                android:layout_width="0dp"
+                android:gravity="center"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+                <Spinner
+                    android:id="@+id/spinneyYear"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+            </LinearLayout>
+            <View
+                android:id="@+id/view"
+                android:layout_width="1.5dp"
+                android:layout_height="match_parent"
+                android:background="@color/colorAccent"/>
+            <LinearLayout
+                android:id="@+id/linearMonth"
+                android:layout_width="0dp"
+                android:orientation="vertical"
+                android:layout_height="match_parent"
+
+                android:layout_weight="1">
+                <Spinner
+                    android:id="@+id/spinner_month"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+            </LinearLayout>
+            <View
+                android:layout_width="1.5dp"
+                android:layout_height="match_parent"
+                android:background="@color/colorAccent"/>
+            <LinearLayout
+                android:id="@+id/linearDays"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+                <Spinner
+                    android:id="@+id/spinnerDay"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+            </LinearLayout>
+        </LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:overScrollMode="never"
+        android:id="@+id/recycleReward"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </androidx.recyclerview.widget.RecyclerView>
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tv_message"
+        android:text="@string/no_matches_found"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</LinearLayout>

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "381088012083",
+    "firebase_url": "https://ommi-280707.firebaseio.com",
+    "project_id": "ommi-280707",
+    "storage_bucket": "ommi-280707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381088012083:android:fb2e635f13465618b89046",
+        "android_client_info": {
+          "package_name": "com.ommi.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381088012083-irq0ndik7b23dqne9m1teiugbgim1c89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ommi.bloodbank",
+            "certificate_hash": "1d5d9abba7161d99946f81571d11e8b5635998a4"
+          }
+        },
+        {
+          "client_id": "381088012083-ojn1t4vtg9ocjclis59ihbrapq30gskr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ommi.bloodbank",
+            "certificate_hash": "a3f048da037abef435d0b71b662a7dcbb4a262c2"
+          }
+        },
+        {
+          "client_id": "381088012083-rdnj96noph0pro64gvg5kc66r3duo7g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9vZoR6K5vQzaVrC_Rokkfo1s_m11npNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381088012083-rdnj96noph0pro64gvg5kc66r3duo7g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

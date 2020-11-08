@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/card_public_messege"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <TextView
+        android:layout_marginRight="10dp"
+        android:id="@+id/tv_name"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/colorAccent"
+        android:layout_width="match_parent"
+        android:text="name"
+        android:layout_height="wrap_content"/>
+        <androidx.cardview.widget.CardView
+            android:id="@+id/card_post"
+            android:layout_width="wrap_content"
+            app:cardBackgroundColor="@color/colorAccent"
+            app:cardElevation="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="80dp"
+            app:cardCornerRadius="10dp"
+            android:layout_height="wrap_content">
+
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:id="@+id/tv_post"
+                        android:paddingLeft="35dp"
+                        android:paddingRight="30dp"
+                        android:paddingTop="25dp"
+                        android:paddingBottom="15dp"
+                        android:textColor="@color/colorWhite"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center|center_horizontal"
+                        android:text=" or a typeface without relying on meaningful content."/>
+                    <ImageView
+                        android:id="@+id/iv_share"
+                        android:layout_width="24dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_height="24dp"
+                        android:padding="3dp"
+                        android:layout_gravity="right|center"
+                        android:layout_marginBottom="15dp"
+                        android:src="@drawable/ic_sharepost"/>
+
+                    <ImageView
+                        android:id="@+id/iv_messege"
+                        android:layout_width="24dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right|center"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginRight="5dp"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_chat_gray" />
+                    <ImageView
+                        android:id="@+id/iv_arrow_up"
+                        android:layout_width="24dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left|center"
+                        android:layout_marginTop="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:padding="3dp"
+                        android:layout_marginBottom="20dp"
+                        android:src="@drawable/ic_up_arrow" />
+                    <ImageView
+                        android:id="@+id/iv_arrow_down"
+                        android:layout_width="24dp"
+                        android:layout_marginTop="20dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left|center"
+                        android:layout_marginBottom="2dp"
+                        android:layout_marginLeft="2dp"
+                        android:padding="3dp"
+                        android:src="@drawable/ic_arrow_down" />
+                    <TextView
+                        android:id="@+id/tv_val"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="0"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="@color/colorWhite"
+                        android:layout_gravity="center|left"
+                        />
+
+                </FrameLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>
